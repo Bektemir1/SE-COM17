@@ -713,8 +713,109 @@ opacity: 1;
 
 
 /*=============================END OF BANNER AT CALENDAR==============================*/
+/*===============================HOME BANNER AREA======================================*/
 
 
+.home_banner_area {
+	z-index: 1;
+	min-height: 780px;
+	display: flex;
+	position: relative;
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/ba-alatoo.jpg) no-repeat scroll center; }
+.home_banner_area .banner_inner {
+	position: relative;
+	z-index: 10;
+	width: 100%;
+	display: flex; }
+.home_banner_area .banner_inner .container {
+	vertical-align: middle;
+	align-self: center; }
+.home_banner_area .banner_inner .banner_content {
+	color: #fff; }
+.home_banner_area .banner_inner .banner_content h2 {
+	margin-top: 0px;
+	font-size: 48px;
+	font-weight: 700;
+	color: #fff;
+	line-height: 54px; }
+.home_banner_area .banner_inner .banner_content p {
+	max-width: 520px;
+	font-size: 18px;
+	font-weight: 600;
+	margin: 25px 0px 45px; }
+.home_banner_area .search_course_wrap {
+	margin-top: 40px;
+	margin-bottom: 50px; }
+.home_banner_area .search_course_wrap .form_box {
+	background: rgba(255, 255, 255, 0.15);
+	max-width: 390px;
+	padding: 10px 0px; }
+@media (max-width: 470px) {
+	.home_banner_area .search_course_wrap .form_box {
+		max-width: 210px;
+		padding: 0; } }
+.home_banner_area .search_course_wrap .form-control {
+	height: 50px;
+	background: transparent;
+	padding: 0 20px;
+	border-radius: 0;
+	display: inline-block;
+	border: 0; }
+.home_banner_area .search_course_wrap input {
+	font-size: 18px;
+	color: #ffffff; }
+.home_banner_area .search_course_wrap input.placeholder {
+	color: #ffffff;
+	font-size: 14px; }
+.home_banner_area .search_course_wrap input:-moz-placeholder {
+	color: #ffffff;
+	font-size: 14px; }
+.home_banner_area .search_course_wrap input::-moz-placeholder {
+	color: #ffffff;
+	font-size: 14px; }
+.home_banner_area .search_course_wrap input::-webkit-input-placeholder {
+	color: #ffffff;
+	font-size: 14px; }
+.home_banner_area .search_course_wrap input:focus {
+	box-shadow: none; }
+.home_banner_area .search_course_wrap .search_course_btn {
+	background: -webkit-linear-gradient(to right, #00aee0 0%, #00fedc 51%, #00aee0 100%);
+	background: -moz-linear-gradient(to right, #00aee0 0%, #00fedc 51%, #00aee0 100%);
+	background: -ms-linear-gradient(to right, #00aee0 0%, #00fedc 51%, #00aee0 100%);
+	background: -o-linear-gradient(to right, #00aee0 0%, #00fedc 51%, #00aee0 100%);
+	background: linear-gradient(to right, #00aee0 0%, #00fedc 51%, #00aee0 100%);
+	background-size: 200% auto;
+	border-radius: 0;
+	color: #fff;
+	position: relative;
+	left: 60px;
+	padding: 10px 35px;
+	border: 0;
+	font-size: 13px;
+	font-weight: 600;
+	text-transform: uppercase;
+	-webkit-transition: all 0.3s ease 0s;
+	-moz-transition: all 0.3s ease 0s;
+	-o-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s; }
+@media (max-width: 480px) {
+	.home_banner_area .search_course_wrap .search_course_btn {
+		padding: 8px 16px;
+		left: 0; } }
+.home_banner_area .search_course_wrap .search_course_btn:focus {
+	box-shadow: none; }
+.home_banner_area .search_course_wrap .search_course_btn:hover {
+	background-position: right center; }
+
+/*================================END OF HOME BANNER AREA==============================*/
+/*======================FEATURES ARES======================================================*/
+
+
+
+
+
+
+/*============================END OF FEATURES=================================================*/
 
 /*===================================FOOTER STYLE FROM TEMPLATES================================*/
 .footer-area {
