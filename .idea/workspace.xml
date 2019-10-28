@@ -2,48 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc9e6621-b6db-4a24-bb4e-70c578f14256" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/chart.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tab-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/animate-css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/animate-css/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/counter-up/jquery.counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/counter-up/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/flaticon/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/flaticon/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/flaticon/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/flaticon/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/flaticon/_flaticon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/flaticon/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/flipclock/timer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/isotope/imagesloaded.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/isotope/isotope-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/jquery-ui/jquery-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/jquery-ui/jquery-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/lightbox/simpleLightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/lightbox/simpleLightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/linericon/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/nice-select/css/nice-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/nice-select/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/nice-select/js/jquery.nice-select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/nice-select/js/jquery.nice-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/owl-carousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/owl-carousel/assets/animated.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/owl-carousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/owl-carousel/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department/alumni.html" beforeDir="false" afterPath="$PROJECT_DIR$/department/alumni.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/department/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department/developments.html" beforeDir="false" afterPath="$PROJECT_DIR$/department/developments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/department/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/department/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department/prospective-students.html" beforeDir="false" afterPath="$PROJECT_DIR$/department/prospective-students.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,7 +35,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="17" />
-          <entry key="html" value="46" />
+          <entry key="html" value="57" />
           <entry key="js" value="7" />
           <entry key="scss" value="1" />
         </counts>
@@ -79,7 +43,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="17" />
-          <entry key="HTML" value="46" />
+          <entry key="HTML" value="57" />
           <entry key="JavaScript" value="7" />
           <entry key="SCSS" value="1" />
         </counts>
@@ -87,14 +51,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="1684" />
-          <entry key="html" value="4175" />
+          <entry key="html" value="4257" />
           <entry key="js" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="1684" />
-          <entry key="HTML" value="4175" />
+          <entry key="HTML" value="4257" />
           <entry key="JavaScript" value="56" />
         </counts>
       </usages-collector>
@@ -102,20 +66,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="278" column="51" selection-start-line="278" selection-start-column="51" selection-end-line="278" selection-end-column="51" />
+            <state relative-caret-position="4539">
+              <caret line="269" column="41" selection-start-line="269" selection-start-column="41" selection-end-line="269" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+        <entry file="file://$PROJECT_DIR$/department/info.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="784" column="20" selection-start-line="784" selection-start-column="20" selection-end-line="784" selection-end-column="20" />
+            <state relative-caret-position="187">
+              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/department/contact-us.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/department/developments.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/department/news.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/department/prospective-students.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -150,10 +150,6 @@
         <option value="$PROJECT_DIR$/css/animate.css" />
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/department/graduates.html" />
-        <option value="$PROJECT_DIR$/department/developments.html" />
-        <option value="$PROJECT_DIR$/department/news.html" />
-        <option value="$PROJECT_DIR$/department/prospective-students.html" />
-        <option value="$PROJECT_DIR$/department/alumni.html" />
         <option value="$PROJECT_DIR$/program/exam_rules.html" />
         <option value="$PROJECT_DIR$/program/degree_details.html" />
         <option value="$PROJECT_DIR$/program/degree-guide.html" />
@@ -163,9 +159,7 @@
         <option value="$PROJECT_DIR$/program/faq.html" />
         <option value="$PROJECT_DIR$/program/recent-diplomas.html" />
         <option value="$PROJECT_DIR$/program/research.html" />
-        <option value="$PROJECT_DIR$/department/info.html" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/department/contact-us.html" />
         <option value="$PROJECT_DIR$/calendar/academic-calendar.html" />
         <option value="$PROJECT_DIR$/calendar/labs.html" />
         <option value="$PROJECT_DIR$/calendar/finals.html" />
@@ -173,6 +167,12 @@
         <option value="$PROJECT_DIR$/calendar/schedule-of-lectures.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/department/alumni.html" />
+        <option value="$PROJECT_DIR$/department/info.html" />
+        <option value="$PROJECT_DIR$/department/contact-us.html" />
+        <option value="$PROJECT_DIR$/department/developments.html" />
+        <option value="$PROJECT_DIR$/department/news.html" />
+        <option value="$PROJECT_DIR$/department/prospective-students.html" />
       </list>
     </option>
   </component>
@@ -203,7 +203,12 @@
             <path>
               <item name="SE-COM17" type="b2602c69:ProjectViewProjectNode" />
               <item name="SE-COM17" type="462c0819:PsiDirectoryNode" />
-              <item name="vendors" type="462c0819:PsiDirectoryNode" />
+              <item name="calendar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SE-COM17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SE-COM17" type="462c0819:PsiDirectoryNode" />
+              <item name="department" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,12 +259,12 @@
       <workItem from="1572058195058" duration="3725000" />
       <workItem from="1572063869576" duration="6836000" />
       <workItem from="1572221850827" duration="3347000" />
-      <workItem from="1572270703153" duration="4170000" />
+      <workItem from="1572270703153" duration="5290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52950000" />
+    <option name="totallyTimeSpent" value="54070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -342,27 +347,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/department/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/department/developments.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/department/prospective-students.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/program/exam_rules.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1">
@@ -422,13 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/department/info.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -443,20 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="50" column="4" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/department/alumni.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="111" column="13" lean-forward="true" selection-start-line="21" selection-end-line="111" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/department/contact-us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -504,13 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calendar/midterms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="125" column="88" selection-start-line="125" selection-start-column="88" selection-end-line="125" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_blog.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -524,10 +480,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/calendar/midterms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="213" column="13" lean-forward="true" selection-start-line="146" selection-start-column="4" selection-end-line="213" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/alumni.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4539">
+          <caret line="269" column="41" selection-start-line="269" selection-start-column="41" selection-end-line="269" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/info.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="278" column="51" selection-start-line="278" selection-start-column="51" selection-end-line="278" selection-end-column="51" />
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/developments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/prospective-students.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
         </state>
       </provider>
     </entry>
