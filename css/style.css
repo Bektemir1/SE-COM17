@@ -875,6 +875,72 @@ opacity: 1;
 .search_course_btn:hover {
 	background-position: right center; }
 
+/* Start Instructor Area css
+============================================================================================ */
+.instructors_area {
+	padding: 120px 0 90px; }
+@media (max-width: 991px) {
+	.instructors_area {
+		padding: 60px 0 30px; } }
+
+.single_instructor {
+	text-align: center;
+	margin-bottom: 30px; }
+.single_instructor .author_decs {
+	box-shadow: 0 0 50px rgba(153, 153, 153, 0.1);
+	background: #fff;
+	padding: 40px;
+	margin-top: -30px;
+	-webkit-transition: all 0.3s ease 0s;
+	-moz-transition: all 0.3s ease 0s;
+	-o-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s; }
+.single_instructor .author_decs .social_icons {
+	margin-top: 20px; }
+.single_instructor .author_decs .social_icons a {
+	color: #cccccc;
+	padding-right: 10px;
+	-webkit-transition: all 0.3s ease 0s;
+	-moz-transition: all 0.3s ease 0s;
+	-o-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s; }
+.single_instructor .author_decs .social_icons a:hover {
+	color: #772dff; }
+.single_instructor .author_decs h4 {
+	margin: 20px 0px 0px; }
+.single_instructor .author_decs .profession {
+	margin-bottom: 15px; }
+.single_instructor .author_decs p {
+	margin: 0px; }
+.single_instructor:hover .author_decs {
+	box-shadow: 0 20px 50px rgba(0, 0, 0, 0.1); }
+
+.main_title h2 {
+	font-size: 36px;
+	line-height: 30px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+.main_title p {
+	font-size: 16px;
+	margin-bottom: 0px;
+	max-width: 570px;
+	font-weight: 300;
+	margin: auto;
+}
+
+.main_title {
+	text-align: center;
+	margin-bottom: 75px;
+}
+
+.lite_bg {
+	background: #f9f9f9;
+}
+
+/* End Instructor Area css
+============================================================================================ */
+
 
 /*===================================FOOTER STYLE FROM TEMPLATES================================*/
 .footer-area {
