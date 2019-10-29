@@ -843,6 +843,10 @@ opacity: 1;
 .banner_area .banner_inner .banner_content .page_link a:last-child:before {
 	display: none; }
 
+.mt {
+	margin-top: -50px;
+}
+
 
 
 /*=============================END OF BANNER AT CALENDAR==============================*/
