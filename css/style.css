@@ -931,6 +931,7 @@ opacity: 1;
 	max-width: 570px;
 	font-weight: 300;
 	margin: auto;
+	color:grey;
 }
 
 .main_title {
@@ -942,6 +943,9 @@ opacity: 1;
 	background: #f9f9f9;
 }
 
+.more{
+    font-size: 16px;
+}
 /* End Instructor Area css
 ============================================================================================ */
 
