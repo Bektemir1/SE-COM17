@@ -946,10 +946,46 @@ opacity: 1;
 .more{
     font-size: 16px;
 }
-/* End Instructor Area css
-============================================================================================ */
+/* End Instructor Area css============================================================================================ */
+
+/*==================teachers detail=========================*/
+.section {
+	padding-top: 90px;
+	padding-bottom: 90px;
+}
 
 
+h1, h2, h3, h4, h5, h6 {
+	color: #1e1e4b;
+	font-weight: 700;
+	line-height: 1.2;
+}
+.text-color {
+	color: #5c5c77;
+}
+h6, .h6 {
+	font-size: 16px;
+}
+p, .paragraph {
+	font-weight: 400;
+	color: #5c5c77;
+	font-size: 15px;
+	line-height: 1.9;
+	font-family: "Poppins", sans-serif;
+}
+h3, .h3 {
+	font-size: 25px;}
+a, button, select {
+	cursor: pointer;
+	transition: .2s ease;
+}
+a, a:hover, a:focus {
+	text-decoration: none;
+}
+.list-unstyled .text-color{
+	font-size: 14px;
+}
+/*===============end of teacher detail================*/
 /*===================================FOOTER STYLE FROM TEMPLATES================================*/
 .footer-area {
 	background: #000000;
