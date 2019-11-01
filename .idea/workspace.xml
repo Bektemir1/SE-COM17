@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc9e6621-b6db-4a24-bb4e-70c578f14256" name="Default Changelist" comment="">
+    <list default="true" id="46b54fb0-bdae-418a-a6e4-c4bc927dede2" name="Default Changelist" comment="added header for overview">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/calendar/finals.html" beforeDir="false" afterPath="$PROJECT_DIR$/calendar/finals.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/grad/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/grad/overview.html" afterDir="false" />
+>>>>>>> c8fd207608e4645eaffe07697db04dd133e3f9d2
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="-433957182">
       <usages-collector id="statistics.lifecycle.project">
@@ -132,6 +134,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> c8fd207608e4645eaffe07697db04dd133e3f9d2
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -139,26 +143,10 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>fadeInDown</find>
-      <find>navbar-tog</find>
-      <find>button:hover</find>
-      <find>footer-l</find>
-      <find>sear</find>
-      <find>tab-pane</find>
-      <find>main_title</find>
-      <find>contact</find>
-      <find>main_ti</find>
-      <find>banner</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/js/theme.js" />
         <option value="$PROJECT_DIR$/css/style2.css" />
         <option value="$PROJECT_DIR$/css/animate.css" />
@@ -191,20 +179,19 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/calendar/finals.html" />
         <option value="$PROJECT_DIR$/index.html" />
+=======
+        <option value="israil" />
+>>>>>>> c8fd207608e4645eaffe07697db04dd133e3f9d2
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="677" />
     <option name="height" value="744" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -229,6 +216,8 @@
       </pane>
     </panes>
   </component>
+=======
+>>>>>>> c8fd207608e4645eaffe07697db04dd133e3f9d2
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/javaaaa" />
@@ -256,6 +245,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/SE-COM17/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="overview.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/SE-COM17/grad/overview.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.overview.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -282,6 +285,7 @@
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="81554000" />
   </component>
@@ -591,5 +595,13 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added header for overview" />
+    <option name="LAST_COMMIT_MESSAGE" value="added header for overview" />
+>>>>>>> c8fd207608e4645eaffe07697db04dd133e3f9d2
   </component>
 </project>
