@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46b54fb0-bdae-418a-a6e4-c4bc927dede2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/tech-wallpaper-5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grad/grad-research.html" beforeDir="false" afterPath="$PROJECT_DIR$/grad/grad-research.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grad/grad-courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/grad/grad-courses.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +29,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="width" value="677" />
-    <option name="height" value="744" />
-  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/javaaaa" />
@@ -40,6 +37,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\izarbaliev\WebstormProjects\SE-COM17\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kudaj\Desktop\SE-COM17" />
       <recent name="C:\Users\kudaj\Desktop\SE-COM17\images" />
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572589908780</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="changed main content in grad-research">
+      <created>1572590405920</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1572590405920</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +178,7 @@
     <MESSAGE value="added footer for courses.html" />
     <MESSAGE value="added footer for grad-research" />
     <MESSAGE value="changed header in grad-research" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed header in grad-research" />
+    <MESSAGE value="changed main content in grad-research" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed main content in grad-research" />
   </component>
 </project>
