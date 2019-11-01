@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fc9e6621-b6db-4a24-bb4e-70c578f14256" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/calendar1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/calendar1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calendar/finals.html" beforeDir="false" afterPath="$PROJECT_DIR$/calendar/finals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,7 +19,7 @@
     <session id="-433957182">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="2" />
@@ -27,14 +28,15 @@
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.81" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="19" />
-          <entry key="html" value="69" />
+          <entry key="html" value="70" />
           <entry key="jpg" value="3" />
           <entry key="js" value="7" />
           <entry key="scss" value="1" />
@@ -43,7 +45,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="19" />
-          <entry key="HTML" value="69" />
+          <entry key="HTML" value="70" />
           <entry key="Image" value="3" />
           <entry key="JavaScript" value="7" />
           <entry key="SCSS" value="1" />
@@ -52,14 +54,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="1974" />
-          <entry key="html" value="5854" />
+          <entry key="html" value="5862" />
           <entry key="js" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="1974" />
-          <entry key="HTML" value="5854" />
+          <entry key="HTML" value="5862" />
           <entry key="JavaScript" value="56" />
         </counts>
       </usages-collector>
@@ -70,17 +72,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="187">
+              <caret line="50" column="54" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grad/overview.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2006" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calendar/finals.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="125" column="86" selection-start-line="125" selection-start-column="86" selection-end-line="125" selection-end-column="86" />
+            <state relative-caret-position="851">
+              <caret line="223" column="4" selection-start-line="223" selection-start-column="4" selection-end-line="223" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -88,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="795" column="32" lean-forward="true" selection-start-line="795" selection-start-column="32" selection-end-line="795" selection-end-column="32" />
+            <state relative-caret-position="13515">
+              <caret line="795" column="32" selection-start-line="795" selection-start-column="32" selection-end-line="795" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -97,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/faculty/faculty.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="2516">
               <caret line="148" column="51" selection-start-line="148" selection-start-column="51" selection-end-line="148" selection-end-column="51" />
             </state>
           </provider>
@@ -167,10 +176,8 @@
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/calendar/academic-calendar.html" />
         <option value="$PROJECT_DIR$/calendar/labs.html" />
-        <option value="$PROJECT_DIR$/calendar/finals.html" />
         <option value="$PROJECT_DIR$/calendar/midterms.html" />
         <option value="$PROJECT_DIR$/calendar/schedule-of-lectures.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/department/alumni.html" />
         <option value="$PROJECT_DIR$/department/info.html" />
         <option value="$PROJECT_DIR$/department/developments.html" />
@@ -182,6 +189,8 @@
         <option value="$PROJECT_DIR$/faculty/a.bondarev.html" />
         <option value="$PROJECT_DIR$/faculty/faculty.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/calendar/finals.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -191,7 +200,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="677" />
     <option name="height" value="744" />
@@ -212,27 +221,7 @@
             <path>
               <item name="SE-COM17" type="b2602c69:ProjectViewProjectNode" />
               <item name="SE-COM17" type="462c0819:PsiDirectoryNode" />
-              <item name="calendar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SE-COM17" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SE-COM17" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SE-COM17" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SE-COM17" type="462c0819:PsiDirectoryNode" />
-              <item name="faculty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SE-COM17" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SE-COM17" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SE-COM17" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SE-COM17" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="grad" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,15 +277,16 @@
       <workItem from="1572322373571" duration="13101000" />
       <workItem from="1572419600422" duration="1048000" />
       <workItem from="1572420855526" duration="8803000" />
-      <workItem from="1572498047834" duration="2607000" />
+      <workItem from="1572498047834" duration="2764000" />
+      <workItem from="1572588552134" duration="816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80581000" />
+    <option name="totallyTimeSpent" value="81554000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14806548" />
@@ -551,6 +541,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/calendar1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13515">
+          <caret line="795" column="32" selection-start-line="795" selection-start-column="32" selection-end-line="795" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculty/faculty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="148" column="51" selection-start-line="148" selection-start-column="51" selection-end-line="148" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/faculty/n.shaidullaev.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3196">
@@ -565,34 +572,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/faculty/faculty.html">
+    <entry file="file://$PROJECT_DIR$/grad/overview.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="148" column="51" selection-start-line="148" selection-start-column="51" selection-end-line="148" selection-end-column="51" />
-        </state>
+        <state relative-caret-position="-2006" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/calendar/finals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="125" column="86" selection-start-line="125" selection-start-column="86" selection-end-line="125" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/calendar1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="795" column="32" lean-forward="true" selection-start-line="795" selection-start-column="32" selection-end-line="795" selection-end-column="32" />
+        <state relative-caret-position="851">
+          <caret line="223" column="4" selection-start-line="223" selection-start-column="4" selection-end-line="223" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="187">
+          <caret line="50" column="54" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
         </state>
       </provider>
     </entry>
