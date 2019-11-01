@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="46b54fb0-bdae-418a-a6e4-c4bc927dede2" name="Default Changelist" comment="added header for overview">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 <<<<<<< HEAD
@@ -10,6 +11,9 @@
       <change beforePath="$PROJECT_DIR$/grad/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/grad/overview.html" afterDir="false" />
 >>>>>>> c8fd207608e4645eaffe07697db04dd133e3f9d2
     </list>
+=======
+    <list default="true" id="46b54fb0-bdae-418a-a6e4-c4bc927dede2" name="Default Changelist" comment="" />
+>>>>>>> a31bb7de670d23c1a5b1b966440648e2135ddbf0
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +151,7 @@
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/js/theme.js" />
         <option value="$PROJECT_DIR$/css/style2.css" />
         <option value="$PROJECT_DIR$/css/animate.css" />
@@ -180,6 +185,9 @@
         <option value="$PROJECT_DIR$/calendar/finals.html" />
         <option value="$PROJECT_DIR$/index.html" />
 =======
+=======
+        <option value="Israil &lt;israil.zarbaliev@iaau.edu.kg&gt;" />
+>>>>>>> a31bb7de670d23c1a5b1b966440648e2135ddbf0
         <option value="israil" />
 >>>>>>> c8fd207608e4645eaffe07697db04dd133e3f9d2
       </list>
@@ -245,7 +253,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.grad-courses.html">
+    <configuration name="grad-courses.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/SE-COM17/grad/grad-courses.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/SE-COM17/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -254,8 +265,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.grad-courses.html" />
         <item itemvalue="JavaScript Debug.overview.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -283,6 +295,49 @@
       <workItem from="1572498047834" duration="2764000" />
       <workItem from="1572588552134" duration="816000" />
     </task>
+    <task id="LOCAL-00001" summary="added header for overview">
+      <created>1572585447190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572585447191</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added main content for overview">
+      <created>1572587226466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572587226467</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added footer for overview">
+      <created>1572587454120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572587454120</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added header for courses.html">
+      <created>1572589134480</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572589134480</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed main content for courses.html">
+      <created>1572589255669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572589255669</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added footer for courses.html">
+      <created>1572589496322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572589496322</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
 <<<<<<< HEAD
@@ -601,7 +656,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added header for overview" />
+<<<<<<< HEAD
     <option name="LAST_COMMIT_MESSAGE" value="added header for overview" />
 >>>>>>> c8fd207608e4645eaffe07697db04dd133e3f9d2
+=======
+    <MESSAGE value="added main content for overview" />
+    <MESSAGE value="added footer for overview" />
+    <MESSAGE value="added header for courses.html" />
+    <MESSAGE value="fixed main content for courses.html" />
+    <MESSAGE value="added footer for courses.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="added footer for courses.html" />
+>>>>>>> a31bb7de670d23c1a5b1b966440648e2135ddbf0
   </component>
 </project>
