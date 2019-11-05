@@ -5,5 +5,6 @@
  3. Askat Dzhambulov
  4. Tynai Abdyrazakov
  5. Nurtilek Zakonbekov
- 6. Dastan Daniiar uulu 
+ 6. Mamanov Kubanychbek
+ 7. Bakytov Ermek
 
