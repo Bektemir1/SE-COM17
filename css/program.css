@@ -15,3 +15,7 @@
   text-transform: uppercase;
   border-radius: 4px;
 }
+
+.description {
+  margin-bottom: 30px;
+}
