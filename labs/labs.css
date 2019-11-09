@@ -1,0 +1,28 @@
+.labs__main-title{
+  margin-top: 70px;
+  font-size: 32px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.labs-section{
+  margin-bottom: 20px;
+}
+.labs-section__title{
+  margin-bottom: 30px;
+  display: flex;
+  width: 100%;
+  text-align: center;
+}
+
+.labs-section__content{
+  color: black;
+  font-size: 15px;
+}
+
+span{
+  font-weight: bold;
+}
+
+h4{
+  margin-bottom: 10px;
+}
