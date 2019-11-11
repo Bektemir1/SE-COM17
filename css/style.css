@@ -159,7 +159,13 @@ nav {
 	-webkit-transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
 	-o-transition: all 0.3s ease 0s;
-	transition: all 0.3s ease 0s; }
+	transition: all 0.3s ease 0s;
+
+
+}
+.section_gap {
+	padding: 120px 0;
+}
 .single_department img {
 	-webkit-transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
@@ -723,8 +729,19 @@ transition:0.6s;
 float: left;
 margin: 0 20px 20px 0;
 opacity: 1;
+
 }
 
+
+
+.dpmt_right h3{
+	font-size: 36px;
+	margin-bottom: 40px;
+}
+
+.dpmt_right p{
+	font-size: 18px;
+}
 
 
 
