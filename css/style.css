@@ -856,7 +856,7 @@ opacity: 1;
 /* Recent Update Area css
 ============================================================================================ */
 /*===========================BANNER AREA AT CALENDAR PAGE=============================*/
-.banner_area_2 {
+/*.banner_area_2 {
 	position: relative;
 	background: url(../images/tech-wallpaper-5.jpg) no-repeat center center;
 	z-index: 1;
@@ -921,9 +921,65 @@ opacity: 1;
 
 .mt {
 	margin-top: -50px;
+}*/
+
+
+.banner_area {
+	position: relative;
+	background: url(../images/calendar1.jpg) no-repeat center center;
+	z-index: 1;
+	min-height: 392px;
+	padding-top: 0 !important;
 }
+.banner_area .banner_inner .overlay {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: #000;
+	opacity: 0.4;
+}
+.overlay {
+	position: relative;
+}
+.overlay:after {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	content: "";
+	z-index: -1;
+}
+.banner_area .banner_inner .banner_content {
+	position: relative;
+	z-index: 2;
+	color: #fff;
+}
+.banner_area .banner_inner .banner_content h2 {
+	color: #fff;
+	font-size: 48px;
+}
+.banner_area .banner_inner .banner_content p {
+	color: #fff;
 
-
+}
+.banner_area .banner_inner .banner_content .page_link {
+	display: inline-block;
+	padding: 7px 20px;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	margin-top: 20px;
+}
+.banner_area .banner_inner .banner_content .page_link a {
+	font-size: 14px;
+	color: #fff;
+	font-family: "Crimson Text", serif;
+	margin-right: 32px;
+	position: relative;
+	text-transform: uppercase;
+}
 
 /*=============================END OF BANNER AT CALENDAR==============================*/
 
