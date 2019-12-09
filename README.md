@@ -7,4 +7,5 @@
  5. Nurtilek Zakonbekov
  6. Mamanov Kubanychbek
  7. Bakytov Ermek
+ 8. Beknazar Bazarbek uulu
 
