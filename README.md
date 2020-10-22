@@ -5,7 +5,5 @@
  3. Askat Dzhambulov
  4. Tynai Abdyrazakov
  5. Nurtilek Zakonbekov
- 6. Mamanov Kubanychbek
- 7. Bakytov Ermek
- 8. Beknazar Bazarbek uulu
-
+ 6. Ainazik Turgunbai kyzy
+ 
