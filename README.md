@@ -1,9 +1,6 @@
 # The project proposal for Software engineer
  ## Team members ##
  1. P.M: Bektemir Kudaiberdiev
- 2. Israil Zarbaliev
- 3. Askat Dzhambulov
- 4. Tynai Abdyrazakov
- 5. Nurtilek Zakonbekov
- 6. Ainazik Turgunbai kyzy
+ 2. Nurtilek Zakonbekov
+ 3. Ainazik Turgunbai kyzy
  
