@@ -3,4 +3,5 @@
  1. P.M: Bektemir Kudaiberdiev
  2. Nurtilek Zakonbekov
  3. Ainazik Turgunbai kyzy
+ 4. Kadyrbai Aitbaev
  
